@@ -30,6 +30,11 @@ body {
     padding: 40px;
 }
 
+.tz-gallery a {
+    
+    border: 1px solid red;
+}
+
 /* Override bootstrap column paddings */
 .tz-gallery .row>div {
     padding: 2px;
