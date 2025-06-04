@@ -64,3 +64,15 @@ nav {
     background-image: url(../assets/img/pic.jpg);
     background-repeat: repeat;
 }
+
+body{
+    background-image: url(../assets/img/snow.avif);
+    background-size: 20%;
+    background-repeat:  repeat;
+}
+
+body{
+    color: blueviolet;
+    
+}
+
